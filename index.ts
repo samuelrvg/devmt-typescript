@@ -1,7 +1,7 @@
-function Test (nome: string){
-    return "Nome: " + nome;
+function Test(nome: string) {
+  return "Nome: " + nome;
 }
 
 let nome = "Samuel";
 
-document.body.innerHTML = Test(nome)
+document.body.innerHTML = Test(nome);
